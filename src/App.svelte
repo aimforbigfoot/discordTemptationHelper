@@ -23,8 +23,8 @@
 	<h2>Times ignored Discord: {succeedCount}</h2>
 
 	<div>
-		<button on:click={increaseFail} >I opened discord</button>
-		<button on:click={increaseSucceed}> I did not open discord but I wanted to</button>
+		<button on:click={increaseFail} >I opened Discord</button>
+		<button on:click={increaseSucceed}> I did not open Discord but I wanted to</button>
 	</div>
 	
 </main>
