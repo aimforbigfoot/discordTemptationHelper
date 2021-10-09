@@ -34,9 +34,6 @@
 		padding: 0%;
 		text-align: center;
 	}
-	body{
-
-	}
 	main {
 		text-align: center;
 		padding: 1em;
